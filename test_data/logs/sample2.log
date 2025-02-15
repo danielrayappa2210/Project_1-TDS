@@ -1,0 +1,23 @@
+java.lang.Exception: 2012-02-03 20:11:56 SampleClass5 [WARN] problem finding id 1358451042
+	at com.osa.mocklogger.MockLogger$2.run(MockLogger.java:83)
+2012-02-03 20:11:56 SampleClass5 [DEBUG] detail for id 1976092771
+2012-02-03 20:11:56 SampleClass5 [TRACE] verbose detail for id 1317358561
+2012-02-03 20:11:56 SampleClass5 [TRACE] verbose detail for id 1737534798
+2012-02-03 20:11:56 SampleClass7 [DEBUG] detail for id 1475865947
+2012-02-03 20:11:56 SampleClass5 [TRACE] verbose detail for id 93292939
+2012-02-03 20:11:56 SampleClass4 [INFO] everything normal for id 1104060891
+2012-02-03 20:11:56 SampleClass1 [TRACE] verbose detail for id 1471326656
+2012-02-03 20:11:56 SampleClass3 [DEBUG] detail for id 1708755479
+2012-02-03 20:11:56 SampleClass3 [TRACE] verbose detail for id 96477767
+2012-02-03 20:11:56 SampleClass2 [DEBUG] detail for id 224721019
+2012-02-03 20:11:56 SampleClass7 [TRACE] verbose detail for id 1198913921
+2012-02-03 20:11:56 SampleClass8 [TRACE] verbose detail for id 909684968
+2012-02-03 20:11:56 SampleClass4 [DEBUG] detail for id 759976095
+2012-02-03 20:11:56 SampleClass2 [TRACE] verbose detail for id 1414320436
+2012-02-03 20:11:56 SampleClass7 [TRACE] verbose detail for id 2067347557
+2012-02-03 20:11:56 SampleClass6 [DEBUG] detail for id 1546542023
+2012-02-03 20:11:56 SampleClass5 [TRACE] verbose detail for id 990982084
+2012-02-03 20:11:56 SampleClass7 [TRACE] verbose detail for id 1560323914
+2012-02-03 20:11:56 SampleClass8 [DEBUG] detail for id 2083681507
+2012-02-03 20:11:56 SampleClass3 [TRACE] verbose detail for id 1718828806
+2012-02-03 20:11:56 SampleClass3 [INFO] everything normal for id 530537821
